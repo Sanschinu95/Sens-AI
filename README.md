@@ -1,4 +1,4 @@
-# PadhAI - Personalized Aptitude Development Helper AI
+# SensAI 
 
 An AI-Powered Self-Learning Assessment Platform built to revolutionize how users learn, assess themselves, and grow in the digital era.
 Deployments: [padh-ai-v1](https://padh-ai-v1.vercel.app)
